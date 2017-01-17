@@ -1,2 +1,2 @@
 # PMRL-PDFs
-Naming convention: [year] [student initials] - [paper title]
+File naming convention: [year] [student initials] - [paper title]
